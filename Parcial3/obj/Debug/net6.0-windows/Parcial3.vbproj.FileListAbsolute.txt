@@ -1,0 +1,17 @@
+C:\Users\Nitro\source\repos\Parcial3\Parcial3\bin\Debug\net6.0-windows\Parcial3.exe
+C:\Users\Nitro\source\repos\Parcial3\Parcial3\bin\Debug\net6.0-windows\Parcial3.deps.json
+C:\Users\Nitro\source\repos\Parcial3\Parcial3\bin\Debug\net6.0-windows\Parcial3.runtimeconfig.json
+C:\Users\Nitro\source\repos\Parcial3\Parcial3\bin\Debug\net6.0-windows\Parcial3.dll
+C:\Users\Nitro\source\repos\Parcial3\Parcial3\bin\Debug\net6.0-windows\Parcial3.pdb
+C:\Users\Nitro\source\repos\Parcial3\Parcial3\obj\Debug\net6.0-windows\Parcial3.Form1.resources
+C:\Users\Nitro\source\repos\Parcial3\Parcial3\obj\Debug\net6.0-windows\Parcial3.vbproj.GenerateResource.cache
+C:\Users\Nitro\source\repos\Parcial3\Parcial3\obj\Debug\net6.0-windows\Parcial3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro\source\repos\Parcial3\Parcial3\obj\Debug\net6.0-windows\Parcial3.AssemblyInfoInputs.cache
+C:\Users\Nitro\source\repos\Parcial3\Parcial3\obj\Debug\net6.0-windows\Parcial3.AssemblyInfo.vb
+C:\Users\Nitro\source\repos\Parcial3\Parcial3\obj\Debug\net6.0-windows\Parcial3.vbproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\Parcial3\Parcial3\obj\Debug\net6.0-windows\Parcial3.dll
+C:\Users\Nitro\source\repos\Parcial3\Parcial3\obj\Debug\net6.0-windows\refint\Parcial3.dll
+C:\Users\Nitro\source\repos\Parcial3\Parcial3\obj\Debug\net6.0-windows\Parcial3.pdb
+C:\Users\Nitro\source\repos\Parcial3\Parcial3\obj\Debug\net6.0-windows\Parcial3.genruntimeconfig.cache
+C:\Users\Nitro\source\repos\Parcial3\Parcial3\obj\Debug\net6.0-windows\ref\Parcial3.dll
+C:\Users\Nitro\source\repos\Parcial3\Parcial3\obj\Debug\net6.0-windows\Parcial3.Resources.resources
